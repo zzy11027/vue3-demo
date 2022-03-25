@@ -1,0 +1,24 @@
+.background {
+  overflow: hidden;
+}
+.luckyWheel {
+  margin: 0 auto;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+.prizeCount {
+  color: #bfa0ff;
+  font-size: 32px;
+  text-align: center;
+  line-height: 60px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+  b {
+    font-size: 40px;
+  }
+  .record {
+    text-decoration: underline;
+    padding-bottom: 10px;
+  }
+}
